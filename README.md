@@ -1,6 +1,3 @@
-# app-dev
-My first repository
-
 # MY FAVORITE SERIES/MOVIE
 1. **Arcane**
 2. *Atonement*
